@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-chooser@1.3.2",
+      "/home/redi/Desktop/moodleapp"
+    ]
+  ],
+  "_from": "cordova-plugin-chooser@1.3.2",
+  "_id": "cordova-plugin-chooser@1.3.2",
+  "_inBundle": false,
+  "_integrity": "sha512-GfAibvrPdWe/ri+h3e3xkmq5bietY6yJRBIZawYDE7w600j2mtRsxgat7siWZtjRRhJuVsVwUG6H86Hyp3WKvA==",
+  "_location": "/cordova-plugin-chooser",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-plugin-chooser@1.3.2",
+    "name": "cordova-plugin-chooser",
+    "escapedName": "cordova-plugin-chooser",
+    "rawSpec": "1.3.2",
+    "saveSpec": null,
+    "fetchSpec": "1.3.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-chooser/-/cordova-plugin-chooser-1.3.2.tgz",
+  "_spec": "1.3.2",
+  "_where": "/home/redi/Desktop/moodleapp",
+  "author": {
+    "name": "Cyph, Inc.",
+    "email": "cordova-plugin-chooser@cyph.com",
+    "url": "https://github.com/cyph"
+  },
+  "bugs": {
+    "url": "https://github.com/cyph/cordova-plugin-chooser/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-chooser",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "Cordova file chooser plugin",
+  "homepage": "https://github.com/cyph/cordova-plugin-chooser#readme",
+  "keywords": [
+    "file",
+    "chooser",
+    "picker",
+    "file-chooser",
+    "android",
+    "ios"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "cordova-plugin-chooser",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyph/cordova-plugin-chooser.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.3.2"
+}

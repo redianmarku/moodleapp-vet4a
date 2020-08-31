@@ -1,0 +1,6 @@
+ion-app.app-root page-addon-mod-workshop-phase-info {
+    .core-workshop-phase-selected {
+        background-color: $white;
+        @include core-selected-item($core-splitview-selected);
+    }
+}

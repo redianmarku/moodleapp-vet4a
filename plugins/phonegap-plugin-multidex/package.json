@@ -1,0 +1,56 @@
+{
+  "_args": [
+    [
+      "phonegap-plugin-multidex@1.0.0",
+      "/home/redi/Desktop/moodleapp"
+    ]
+  ],
+  "_from": "phonegap-plugin-multidex@1.0.0",
+  "_id": "phonegap-plugin-multidex@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-1wvc3iQOQpEBaQbXgLxA2JUiLSQ2azdF/bF29ghXDiQJWSpQ1BF8gSuqttM8WZoj081Ps8OKL0gYxdDBkFNPqA==",
+  "_location": "/phonegap-plugin-multidex",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "phonegap-plugin-multidex@1.0.0",
+    "name": "phonegap-plugin-multidex",
+    "escapedName": "phonegap-plugin-multidex",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/phonegap-plugin-multidex/-/phonegap-plugin-multidex-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "/home/redi/Desktop/moodleapp",
+  "author": {
+    "name": "Adobe PhoneGap Team"
+  },
+  "bugs": {
+    "url": "https://github.com/phonegap/phonegap-plugin-multidex/issues"
+  },
+  "cordova": {
+    "id": "phonegap-plugin-multidex",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "Enable multidex in a Apache Cordova/PhoneGap application",
+  "homepage": "http://github.com/phonegap/phonegap-plugin-multidex#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "ecosystem:phonegap",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "phonegap-plugin-multidex",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phonegap/phonegap-plugin-multidex.git"
+  },
+  "version": "1.0.0"
+}

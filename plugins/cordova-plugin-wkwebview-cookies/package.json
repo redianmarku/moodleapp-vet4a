@@ -1,0 +1,60 @@
+{
+  "_from": "git+https://github.com/moodlemobile/cordova-plugin-wkwebview-cookies.git",
+  "_id": "cordova-plugin-wkwebview-cookies@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-wkwebview-cookies",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/moodlemobile/cordova-plugin-wkwebview-cookies.git",
+    "rawSpec": "git+https://github.com/moodlemobile/cordova-plugin-wkwebview-cookies.git",
+    "saveSpec": "git+https://github.com/moodlemobile/cordova-plugin-wkwebview-cookies.git",
+    "fetchSpec": "https://github.com/moodlemobile/cordova-plugin-wkwebview-cookies.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/moodlemobile/cordova-plugin-wkwebview-cookies.git#8c3a289e29b33edecff15f470c1630baf4ec3e88",
+  "_spec": "git+https://github.com/moodlemobile/cordova-plugin-wkwebview-cookies.git",
+  "_where": "/home/redi/Desktop/moodleapp",
+  "author": {
+    "name": "Moodle Pty Ltd"
+  },
+  "bugs": {
+    "url": "https://github.com/moodlemobile/cordova-plugin-wkwebview-cookies/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-wkwebview-cookies",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova WKWebView Cookies Plugin",
+  "engines": {
+    "cordovaDependencies": {
+      "3.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "homepage": "https://github.com/moodlemobile/cordova-plugin-wkwebview-cookies#readme",
+  "keywords": [
+    "cordova",
+    "wkwebviewcookies",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "Apache-2.0",
+  "name": "cordova-plugin-wkwebview-cookies",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moodlemobile/cordova-plugin-wkwebview-cookies.git"
+  },
+  "types": "./types/index.d.ts",
+  "version": "1.0.0"
+}

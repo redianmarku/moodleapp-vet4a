@@ -1,0 +1,60 @@
+{
+  "_from": "git+https://github.com/moodlemobile/cordova-plugin-wkuserscript.git",
+  "_id": "cordova-plugin-wkuserscript@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-wkuserscript",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/moodlemobile/cordova-plugin-wkuserscript.git",
+    "rawSpec": "git+https://github.com/moodlemobile/cordova-plugin-wkuserscript.git",
+    "saveSpec": "git+https://github.com/moodlemobile/cordova-plugin-wkuserscript.git",
+    "fetchSpec": "https://github.com/moodlemobile/cordova-plugin-wkuserscript.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/moodlemobile/cordova-plugin-wkuserscript.git#6413f4bb3c2565f353e690b5c1450b69ad9e860e",
+  "_spec": "git+https://github.com/moodlemobile/cordova-plugin-wkuserscript.git",
+  "_where": "/home/redi/Desktop/moodleapp",
+  "author": {
+    "name": "Moodle Pty Ltd"
+  },
+  "bugs": {
+    "url": "https://github.com/moodlemobile/cordova-plugin-wkuserscript/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-wkuserscript",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova WKUserScript Plugin",
+  "engines": {
+    "cordovaDependencies": {
+      "3.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "homepage": "https://github.com/moodlemobile/cordova-plugin-wkuserscript#readme",
+  "keywords": [
+    "cordova",
+    "wkuserscript",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "Apache-2.0",
+  "name": "cordova-plugin-wkuserscript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moodlemobile/cordova-plugin-wkuserscript.git"
+  },
+  "types": "./types/index.d.ts",
+  "version": "1.0.0"
+}

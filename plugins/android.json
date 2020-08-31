@@ -1,0 +1,130 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com-darryncampbell-cordova-plugin-intent": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-android-support-gradle-release": {
+      "ANDROID_SUPPORT_VERSION": "27.1.0",
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-clipboard": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-advanced-http": {
+      "OKHTTP_VERSION": "3.10.0",
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-camera": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-chooser": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-customurlscheme": {
+      "URL_SCHEME": "moodlemobile",
+      "ANDROID_SCHEME": " ",
+      "ANDROID_HOST": " ",
+      "ANDROID_PATHPREFIX": "/",
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-file-opener2": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-geolocation": {
+      "GPS_REQUIRED": "false",
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-local-notification": {
+      "ANDROID_SUPPORT_V4_VERSION": "26.+",
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-qrscanner": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-wkuserscript": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-wkwebview-cookies": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-plugin-zip": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "nl.kingsquare.cordova.background-audio": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "phonegap-plugin-push": {
+      "ANDROID_SUPPORT_V13_VERSION": "27.+",
+      "FCM_VERSION": "17.5.+",
+      "PACKAGE_NAME": "com.vet4.africa"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-add-swift-support": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "cordova-support-google-services": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    },
+    "phonegap-plugin-multidex": {
+      "PACKAGE_NAME": "com.vet4.africa"
+    }
+  }
+}
